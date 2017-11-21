@@ -12,7 +12,7 @@
     "htmlparser2": "~3.9.0",
     "lodash": "~4.15.0",
     "qs": "~4.0.0",
-    "react-native-lightbox": "https://github.com/duyphambhtech/react-native-lightbox.git#713bf5af399d97c22155a93bf8daafebb79f7e62",
+    "react-native-lightbox": "https://github.com/duyphambhtech/react-native-lightbox.git#35c4ef664667d66f9aece9595d27f1c8ca422ebc",
     "react-native-linear-gradient": "~2.2.0",
     "react-native-transformable-image": "https://github.com/duyphambhtech/react-native-transformable-image.git#6a53d94e7993847f490b34a978f59ff11f194087",
     "react-native-vector-icons": "~4.3.0",
