@@ -14,7 +14,7 @@
     "qs": "~4.0.0",
     "react-native-lightbox": "shoutem/react-native-lightbox#4e58b9b1aca166142d69b161ff511efc3358ff9f",
     "react-native-linear-gradient": "~2.2.0",
-    "react-native-transformable-image": "0.0.18",
+    "react-native-transformable-image": "https://github.com/duyphambhtech/react-native-transformable-image.git",
     "react-native-vector-icons": "~4.3.0",
     "react-native-photo-view": "~1.4.0",
     "react-native-navigation-experimental-compat": "1.0.0",
