@@ -16,7 +16,7 @@
     "react-native-linear-gradient": "~2.2.0",
     "react-native-transformable-image": "https://github.com/duyphambhtech/react-native-transformable-image.git#6a53d94e7993847f490b34a978f59ff11f194087",
     "react-native-vector-icons": "~4.3.0",
-    "react-native-photo-view": "~1.4.0",
+    "react-native-photo-view": "~1.5.2",
     "react-native-navigation-experimental-compat": "^1.1",
     "stream": "0.0.2",
     "tinycolor2": "~1.3.0"
